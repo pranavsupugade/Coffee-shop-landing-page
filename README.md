@@ -32,6 +32,11 @@ Works smoothly on:
 
 
 ## 📂 Project Structure
+coffee-shop-landing-page/
+├── index.html
+├── style.css
+├── script.js
+└── images/
 
 ## 🎯 Internship Task Details
 
